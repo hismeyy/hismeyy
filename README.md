@@ -22,16 +22,18 @@ yuBlog：https://www.yublog.top/
 
 Gridet个人博客：https://github.com/hismeyy/gridea-blog
 
-  - HOME OR FIRM
+> IN HOME OR FIRM
 
 C/C++学习笔记：https://github.com/hismeyy/c-study
 
-  - HOME
+> IN HOME
 
 Java知识库：https://github.com/hismeyy/Java-study
 
-  - FIRM
+> IN FIRM
 
 🐯正在进行的个人项目
 
 SpringBoot+Vue博客：https://github.com/hismeyy/blog-project-01
+
+> IN HOME AND FIRM

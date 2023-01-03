@@ -18,10 +18,20 @@ yuBlog：https://www.yublog.top/
 
 ----------------------------------------
 
-正在学C/C++
+🐯正在维护的笔记项目
 
-笔记网站：https://c.yublog.top
+Gridet个人博客：https://github.com/hismeyy/gridea-blog
 
-正在进行的项目
+  - HOME OR FIRM
 
-个人博客：https://github.com/hismeyy/blog-project-01
+C/C++学习笔记：https://github.com/hismeyy/c-study
+
+  - HOME
+
+Java知识库：https://github.com/hismeyy/Java-study
+
+  - FIRM
+
+🐯正在进行的个人项目
+
+SpringBoot+Vue博客：https://github.com/hismeyy/blog-project-01

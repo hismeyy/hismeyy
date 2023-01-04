@@ -35,5 +35,5 @@ yuBlog：https://www.yublog.top/
 
 🐯正在进行的个人项目
 
-> SpringBoot+Vue博客：https://github.com/hismeyy/blog-project-01
+> SpringBoot+Vue博客：https://github.com/hismeyy/blog-xszl
 > IN HOME AND FIRM

@@ -16,20 +16,7 @@
 
 GitHub：https://github.com/hismeyy
 
-yuBlog：https://www.yublog.top/
-
-<hr>
-
-🐯正在维护的笔记项目
-
-> Gridet个人博客：https://github.com/hismeyy/gridea-blog
-> IN HOME OR FIRM
-
-> C/C++学习笔记：https://github.com/hismeyy/c-study
-> IN HOME
-
-> Java知识库：https://github.com/hismeyy/Java-study
-> IN FIRM
+yuBlog主页：https://home.yublog.top/
 
 <hr>
 

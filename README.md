@@ -22,5 +22,5 @@ yuBlog主页：https://home.yublog.top/
 
 🐯正在进行的个人项目
 
-> SpringBoot+Vue博客：https://github.com/hismeyy/blog-xszl
+> SpringBoot+Vue博客：https://github.com/hismeyy/my-blog-project
 > IN HOME AND FIRM

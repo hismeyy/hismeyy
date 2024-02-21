@@ -20,9 +20,9 @@ ZH_CN
 😄 代词：[代码界的黑客侠，穿梭于数据的海洋，守护着数字世界的和平。在这个由0和1构建的宇宙中，用键盘作剑的战士]
 
 ⚡ 有趣的事实：
-    - 爱好：画画 唱歌 社交 五子棋 读书
-    - 位置：中国-自由的中国
-    - 目标：财富自由
+- 爱好：画画 唱歌 社交 五子棋 读书
+- 位置：中国-自由的中国
+- 目标：财富自由
     
 --------------------------------------------------------------------------------------------------
 
@@ -45,8 +45,8 @@ EN
 😄 Pronouns: [A hacker knight of the code realm, navigating the sea of data, guarding the peace of the digital world. In this universe built of 0s and 1s, a warrior wielding the keyboard as a sword]
 
 ⚡ Fun fact:
-   - Hobbies: Painting, Singing, Socializing, Playing Go, Reading
-   - Location: China - The Land of Freedom
-   - Goal: Financial Freedom
+- Hobbies: Painting, Singing, Socializing, Playing Go, Reading
+- Location: China - The Land of Freedom
+- Goal: Financial Freedom
      
 --------------------------------------------------------------------------------------------------

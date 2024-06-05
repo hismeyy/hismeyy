@@ -1,8 +1,4 @@
 
---------------------------------------------------------------------------------------------------
-
-ZH_CN
-
 👋 你好！我是[MaxCosMos]！
 
 🔭 我目前担任后端开发工程师，专注于创建健壯且可扩展的服务器端应用程序。我的编程旅程让我遍历了各种领域，我特别热衷于解决复杂问题并优化系统性能。
@@ -23,30 +19,3 @@ ZH_CN
 - 爱好：画画 唱歌 社交 五子棋 读书
 - 位置：中国-自由的中国
 - 目标：财富自由
-    
---------------------------------------------------------------------------------------------------
-
-EN
-
-👋 Hi there! I'm [MaxCosMos]!
-
-🔭 I currently work as a Backend Developer, focusing on creating robust and scalable server-side applications. My programming journey has taken me through various fields, and I have a special passion for solving complex problems and optimizing system performance.
-
-🌱 I'm proficient in a variety of programming languages, including Java, C, and Python, which allows me to adapt and thrive in diverse development environments. I also have a strong interest in front-end development, understanding the importance of a seamless user experience and striving to bridge the gap between front-end and back-end with efficient, API-driven solutions.
-
-👯 I'm looking to collaborate on open source projects and innovative startups, where I can contribute my backend development skills and learn from the community. I believe in the power of collaboration to push the boundaries of what's possible in technology.
-
-🤔 I'm interested in exploring new technologies and methodologies that challenge my problem-solving skills and push me to grow as a developer. I'm particularly attracted to the possibilities of AI and machine learning in enhancing backend systems.
-
-💬 Ask me about anything related to backend development, my experience with Java, C, and Python, or the front-end frameworks I've explored. I love to discuss tech trends, best practices, and innovative solutions to common development challenges.
-
-📫 How to reach me: [renyh2001@163.com]
-
-😄 Pronouns: [A hacker knight of the code realm, navigating the sea of data, guarding the peace of the digital world. In this universe built of 0s and 1s, a warrior wielding the keyboard as a sword]
-
-⚡ Fun fact:
-- Hobbies: Painting, Singing, Socializing, Playing Go, Reading
-- Location: China - The Land of Freedom
-- Goal: Financial Freedom
-     
---------------------------------------------------------------------------------------------------
